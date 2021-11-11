@@ -177,7 +177,7 @@
 
 
     <LinearLayout
-        android:id="@+id/create_account"
+        android:id="@+id/sign_up_parent"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
